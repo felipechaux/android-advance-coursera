@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_contacto"
+        android:title="@string/app_contact" />
+    <item
+        android:id="@+id/item_acerca"
+        android:title="@string/app_acerca_de" />
+    <item
+        android:id="@+id/item_configuracion_cuenta"
+        android:title="@string/app_config_account" />
+</menu>

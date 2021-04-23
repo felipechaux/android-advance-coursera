@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒÀê•ùÿÿÿÿ
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÔÒÃúÿÿÿÿ8ªŸú»/
+œ
+java:S1319"zThe type of the "recentUserInfos" object should be an interface such as "List" rather than the implementation "ArrayList".(³àîçùÿÿÿÿ8ªŸú»/

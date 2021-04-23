@@ -1,0 +1,14 @@
+
+Š
+java:S3252;"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(Ìê¾×ÿÿÿÿÿ8ã¹‘/
+N
+java:S1602:",Remove useless curly braces around statement(ÆÖ¨¹ûÿÿÿÿ8ã¹‘/
+X	java:S125D"<This block of commented-out lines of code should be removed.(Å¯Ê¦8ã¹‘/
+U
+java:S1068"3Remove this unused "recentUserInfos" private field.(íŞìüÿÿÿÿ8ã¹‘/
+u
+java:S1450 "XRemove the "presenter" field and declare it as a local variable in the relevant methods.(¢ŒéÒ8“°Â‘/
+
+java:S1488b"_Immediately return this expression instead of assigning it to the temporary variable "adapter".(şÒÙâúÿÿÿÿ8ã¹‘/
+
+java:S1450"]Remove the "textViewNombre" field and declare it as a local variable in the relevant methods.(“‡ÅÇøÿÿÿÿ8ã¹‘/
