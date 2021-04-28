@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mis cuatro lugares - Colombia</string>
+    <string name="go_to_my_maps">Ir a mis mapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="extra_place_location">placeLocation</string>
+    <string name="extra_place_mark">placeMark</string>
+    <string name="extra_place_title">placeTitle</string>
+
+    <string name="place_one">Hogar del sol</string>
+    <string name="place_two">Cumbres de San Mateo</string>
+    <string name="place_three">Parque Tibanica</string>
+    <string name="place_four">Cerro el Gordo</string>
+
+</resources>
