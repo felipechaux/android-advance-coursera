@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.BioActivity">
+
+    <include
+        android:id="@+id/myActionBar"
+        layout="@layout/actionbar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myActionBar"
+        android:orientation="vertical">
+
+       <ImageView
+           android:gravity="center"
+           android:layout_marginTop="@dimen/size_15"
+           android:id="@+id/imageBio"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:contentDescription="@string/app_name" />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/BioTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/spacing_28"
+            android:text="@string/developer_name"
+            android:textSize="@dimen/size_15"
+            android:textStyle="bold"
+            tools:ignore="RtlCompat" />
+
+
+        <TextView
+            android:id="@+id/BioInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/spacing_28"
+            android:layout_marginTop="@dimen/spacing_28"
+            android:text="@string/app_bio"
+            android:textSize="@dimen/size_20"
+            android:textStyle="italic"
+            tools:ignore="RtlCompat" />
+    </LinearLayout>
+
+
+</RelativeLayout>

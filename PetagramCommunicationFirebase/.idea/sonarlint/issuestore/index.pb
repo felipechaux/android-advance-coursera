@@ -1,0 +1,23 @@
+
+r
+Bapp/src/main/java/com/example/petagram/adapter/MascotaAdapter.java,e/f/efe920bdc6124497c5e2e47a9106e3ffd62ad85b
+g
+7app/src/main/java/com/example/petagram/db/DataBase.java,2/7/273be0a1cd12d8c7587db12c4ae00eb845ae0320
+n
+>app/src/main/java/com/example/petagram/db/ConstructorPets.java,7/a/7ad68833b1df56a79022a06887c23d257a8cf6d7
+y
+Iapp/src/main/java/com/example/petagram/adapter/RecentUserInfoAdapter.java,0/e/0e54a178a2da9d318d2154345f073f179568f7a7
+É
+Sapp/src/main/java/com/example/petagram/view/fragment/IListMascotasFragmentView.java,5/0/50292c4578da5f555702db30c165ec648e4f70da
+Å
+Qapp/src/main/java/com/example/petagram/view/fragment/IListPerfilFragmentView.java,9/d/9d69803131d54b284b9ca8d34e36f869855eeef1
+{
+Kapp/src/main/java/com/example/petagram/restApi/model/InstagramResponse.java,6/7/67bfd17f7a37b28e55c48965f12de808b901f144
+q
+Aapp/src/main/java/com/example/petagram/view/MascotasActivity.java,e/c/ecb4b1fe52cad0292cf9f1ecfaf2c0358398030d
+t
+Dapp/src/main/java/com/example/petagram/view/ListMascotaFavorita.java,c/1/c1dd4378d9317ee3aba0f3796d8511bed49f05dc
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+s
+Capp/src/main/java/com/example/petagram/view/ConfigUserActivity.java,d/5/d5cf8ac43232fa0602f9b22119e110ab484bcced

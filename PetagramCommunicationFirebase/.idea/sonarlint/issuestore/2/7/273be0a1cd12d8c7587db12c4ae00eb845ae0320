@@ -1,0 +1,17 @@
+
+b
+java:S1192G"GDefine a constant instead of duplicating this literal " FROM " 3 times.(ìùÛµüÿÿÿÿ
+e
+java:S1192>"ODefine a constant instead of duplicating this literal "SELECT * FROM " 3 times.(ùÙ˜º
+J
+java:S1066o"/Merge this if statement with the enclosing one.(üÏ¸şÿÿÿÿ
+i
+java:S1192F"NDefine a constant instead of duplicating this literal "SELECT COUNT(" 3 times.(ÔŒ‹»øÿÿÿÿ
+c
+java:S1192H"HDefine a constant instead of duplicating this literal " WHERE " 4 times.(‹ùŸöøÿÿÿÿ
+†
+java:S1319["pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(«¸úÛ
+@
+java:S1068"+Remove this unused "context" private field.(êİç
+†
+java:S1319:"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(±¦è
