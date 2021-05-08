@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "540194220460",
+    "project_id": "petagramapp-99bc3",
+    "storage_bucket": "petagramapp-99bc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540194220460:android:ba6ef84aa09966d46b7209",
+        "android_client_info": {
+          "package_name": "com.example.petagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540194220460-lgkn9q0r0mrf6trhu13popk0i9qippdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petagram",
+            "certificate_hash": "3582ef4984fc980570bdf740fb58bdddf9b3408b"
+          }
+        },
+        {
+          "client_id": "540194220460-tsicnfda082njgu6eh7e4ilnj1693ngn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU96SfivRR6cMhm9G3sR46a3RXPxcPDwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540194220460-tsicnfda082njgu6eh7e4ilnj1693ngn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
