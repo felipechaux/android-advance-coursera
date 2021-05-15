@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Petagram" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorPrimaryDark">@color/dark</item>
+    </style>
+    <style name="InputForm" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:textSize">@dimen/form_margin</item>
+    </style>
+
+    <style name="Theme.Petagram.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PetagramApp</string>
+    <string name="app_acerca_de">Acerca de</string>
+    <string name="app_config_account">Configuracion de cuenta</string>
+    <string name="app_get_notifications">Recibir notificaciones</string>
+    <string name="app_contact">Contacto</string>
+    <string name="title_activity_email_mail">EmailMailActivity</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="button_enviar">Enviar</string>
+    <string name="button_guardar">Guardar cuenta</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_description_contact">Tu mensaje</string>
+    <string name="info_incomplete">Debes ingresar todos los datos</string>
+    <string name="info_incomplete_user">Ingresa una cuenta</string>
+    <string name="user_saved_sucess">Se ha configurado el usuario</string>
+    <string name="developer_name">Felipe Chaux G.</string>
+    <string name="app_bio">Hola :) Soy ingeniero de sistemas con 5 años de experiencia en el mundo del desarrollo. Me gusta cantar y tocar guitarra, ademas me encantan los videojuegos..</string>
+    <string name="mail_asunto">PetagramApp Info</string>
+    <string name="loader_mail_titulo">Enviando mensaje</string>
+    <string name="loader_mail_descripcion">Cargando...</string>
+    <string name="mail_enviado">Mail enviado :)</string>
+    <string name="user_default">felipechauxx</string>
+    <string name="app_preference">petagramPreference</string>
+    <string name="user_preference">user</string>
+    <string name="success_register">Registro exitoso en server</string>
+    <string name="success_register_like">Like en server</string>
+    <string name="not_success_register">Error al registrar en server</string>
+    <string name="fcm_token">fcmToken registrado :</string>
+    <string name="user_register">usuario registrado :</string>
+
+    <string name="view_profile_action">Ver mi Perfil </string>
+    <string name="follow_unfollow_action">Follow/Unfollow</string>
+    <string name="view_user_action">Ver usuario</string>
+
+    <string name="view_user_action_intent">viewUser</string>
+
+</resources>
